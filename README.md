@@ -17,4 +17,4 @@ In this tutorial we will make the logic of game with the help of JavaScript and 
 * classList
 
 
-![screenshot]()
+![screenshot](Images/Snapshot_1.png)
